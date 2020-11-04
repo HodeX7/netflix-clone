@@ -1,0 +1,31 @@
+tmdb service API call ( movie info with genres )
+
+API Key (v3 auth)
+c3bbcd4c4a01157a9d55a95ecca985ef
+
+Example API Request
+https://api.themoviedb.org/3/movie/550?api_key=c3bbcd4c4a01157a9d55a95ecca985ef
+
+Building the NavBar --> added netflix/user logo made it position fixed and aspect ratio maintained by object fit contain
+made it dark when we scroll down using javascript commands and functions inn the navbar.js component
+
+
+
+Installing Axios
+Making Components for Row display + making api calls in row component
+
+Styling Rows
+
+Making Banner -> Random Show info on the banner using axios api calls and async functions.
+
+Styling Banner
+
+Improvising the overall view with App.css + banner gradient
+
+Adding youtube trailers
+-> installed react-youtube
+-> installed movie-trailer
+Youtube built in component accepts the video id and options (settings for the style and autoplay) 
+created onclick function which plays and stops the show trailer 
+
+//error some trailers arent being fetched from the api because the name might have been changed or the show doesnt have a trailer on yt

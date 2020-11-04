@@ -1,0 +1,6 @@
+{
+  "hosting": {
+    "public": "build/netflix-reactapp",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
